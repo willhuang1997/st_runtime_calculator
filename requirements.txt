@@ -1,0 +1,10 @@
+streamlit
+plotly
+numpy
+pandas
+plotly-express
+statsmodels
+matplotlib
+graphviz
+pydeck
+bokeh
